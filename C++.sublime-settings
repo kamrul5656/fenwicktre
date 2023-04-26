@@ -1,0 +1,6 @@
+// These settings override both User and Default settings for the C++ syntax
+{
+	"font_size": 16,
+	"tab_size": 2,
+	"font_face": ""
+}
